@@ -1,0 +1,5 @@
+name: BlockLoader
+api: 3.17.0
+main: Skintrphoenix\BlockLoader\Main
+author: Skintrphoenix
+version: 1.0.0
